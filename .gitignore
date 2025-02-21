@@ -69,3 +69,7 @@ coverage/
 uploads/
 tmp/
 temp/
+
+# Supabase
+supabase/
+.supabase/
