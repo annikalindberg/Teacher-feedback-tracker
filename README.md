@@ -11,6 +11,8 @@ visited and not, and made this simple application to track this during a
 session.
 
 Feel free to fork, clone and modify this application as suits your needs! Enjoy!
+Or use it as it is using this
+[live link](https://teacher-feedback-tracker.vercel.app/)
 
 ![Group Feedback Tracker](https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=800&h=400)
 
@@ -81,6 +83,7 @@ npm run preview
 ## Project Structure
 
 The project contains:
+
 - `src/` - Source code for the React.js application
 - `index.html` - Entry HTML file
 - Configuration files (TypeScript, Vite, ESLint, etc.)
